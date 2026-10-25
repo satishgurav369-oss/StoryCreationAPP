@@ -1,5 +1,5 @@
-streamlit>=1.40
-langchain-groq
+streamlit
 python-dotenv
+langchain-groq
 fpdf2
 uharfbuzz
